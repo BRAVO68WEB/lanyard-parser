@@ -1,0 +1,44 @@
+{
+    "discord": {
+        "id": "457039372009865226",
+        "username": "Bravo68-DF_Techs",
+        "discriminator": "6429",
+        "avatar_url": "https://cdn.discordapp.com/avatars/457039372009865226/b9e91dcc8e658eb1ebf24299b7bec733.png",
+        "avatar_decoration_url": "https://cdn.discordapp.com/avatar-decoration-presets/v2_a_9c70ff0db80d85ee6d9690a0eeded0c8.png"
+    },
+    "kv": {
+        "website": "https://bravo68web.me",
+        "github": "https://github.com/bravo68web",
+        "discord": "",
+        "connect": "https://connect.b68dev.xyz",
+        "api": "https://api.b68dev.xyz"
+    },
+    "custom_status": {
+        "state": "Waifu hunting for ages",
+        "emoji": {
+            "name": "hrt",
+            "id": "922534245208051752",
+            "animated": false,
+            "emoji_url": "https://cdn.discordapp.com/emojis/922534245208051752.webp?size=44&quality=lossless"
+        }
+    },
+    "activity": {
+        "prirority_id": 0,
+        "type": 0,
+        "timestamps": {
+            "start": 1683611321632
+        },
+        "state": "Workspace: lanyard-parser",
+        "name": "Visual Studio Code",
+        "id": "6222157424e4191",
+        "details": "Editing parse.offline.ts",
+        "created_at": 1683617514021,
+        "assets": {
+            "small_text": "Visual Studio Code",
+            "small_image": "565945770067623946",
+            "large_text": "Editing a TYPESCRIPT file",
+            "large_image": "808842276184784916"
+        },
+        "application_id": "383226320970055681"
+    }
+}
